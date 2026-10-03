@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: taskTracker
+
+server:
+  port: 8080
+
+tasktracker:
+  max-tasks: 50
+  default-page-size: 10
